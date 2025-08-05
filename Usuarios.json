@@ -1,0 +1,182 @@
+[
+    {
+        "id_usuario": "1",
+        "nombre": "Juan Carlos Montoya",
+        "edad": "25",
+        "email": "juancmonto@gmail.com",
+        "telefono": "3152048997",
+        "direccion": "Calle 20 #5-6",
+        "nacimiento": "02/10/2001"
+    },
+    {
+        "id_usuario": "2",
+        "nombre": "María Fernanda López",
+        "edad": "30",
+        "email": "mariaflopez@hotmail.com",
+        "telefono": "3204567890",
+        "direccion": "Avenida 7 #12-34",
+        "nacimiento": "15/05/1994"
+    },
+    {
+        "id_usuario": "3",
+        "nombre": "Carlos Andrés Ramírez",
+        "edad": "22",
+        "email": "carlosramirez@yahoo.com",
+        "telefono": "3101234567",
+        "direccion": "Carrera 45 #67-89",
+        "nacimiento": "10/08/2002"
+    },
+    {
+        "id_usuario": "4",
+        "nombre": "Ana Isabel García",
+        "edad": "28",
+        "email": "anagarcia@gmail.com",
+        "telefono": "3009876543",
+        "direccion": "Calle 80 #23-45",
+        "nacimiento": "22/11/1996"
+    },
+    {
+        "id_usuario": "5",
+        "nombre": "Luis Miguel Sánchez",
+        "edad": "35",
+        "email": "luismiguel@outlook.com",
+        "telefono": "3176543210",
+        "direccion": "Avenida 30 #10-20",
+        "nacimiento": "05/03/1989"
+    },
+    {
+        "id_usuario": "6",
+        "nombre": "Sofía Camila Martínez",
+        "edad": "19",
+        "email": "sofiacm@gmail.com",
+        "telefono": "3187654321",
+        "direccion": "Carrera 10 #5-60",
+        "nacimiento": "30/07/2005"
+    },
+    {
+        "id_usuario": "7",
+        "nombre": "Jorge Eduardo Díaz",
+        "edad": "40",
+        "email": "jorgediaz@yahoo.com",
+        "telefono": "3145678901",
+        "direccion": "Calle 50 #40-30",
+        "nacimiento": "12/09/1984"
+    },
+    {
+        "id_usuario": "8",
+        "nombre": "Patricia Restrepo",
+        "edad": "27",
+        "email": "patricia.restrepo@gmail.com",
+        "telefono": "3198765432",
+        "direccion": "Avenida 6 #15-25",
+        "nacimiento": "18/12/1997"
+    },
+    {
+        "id_usuario": "9",
+        "nombre": "David Alejandro Ortiz",
+        "edad": "31",
+        "email": "davidortiz@hotmail.com",
+        "telefono": "3123456789",
+        "direccion": "Carrera 25 #30-10",
+        "nacimiento": "07/04/1993"
+    },
+    {
+        "id_usuario": "10",
+        "nombre": "Laura Valentina Gómez",
+        "edad": "24",
+        "email": "lauravgomez@gmail.com",
+        "telefono": "3134567890",
+        "direccion": "Calle 70 #8-12",
+        "nacimiento": "25/06/2000"
+    },
+    {
+        "id_usuario": "11",
+        "nombre": "Andrés Felipe Castro",
+        "edad": "29",
+        "email": "andresfcastro@outlook.com",
+        "telefono": "3167890123",
+        "direccion": "Avenida 15 #22-33",
+        "nacimiento": "14/02/1995"
+    },
+    {
+        "id_usuario": "12",
+        "nombre": "Daniela Alejandra Ruiz",
+        "edad": "26",
+        "email": "danielaruiz@yahoo.com",
+        "telefono": "3156789012",
+        "direccion": "Carrera 40 #11-55",
+        "nacimiento": "03/10/1998"
+    },
+    {
+        "id_usuario": "13",
+        "nombre": "Ricardo José Herrera",
+        "edad": "33",
+        "email": "ricardoherrera@gmail.com",
+        "telefono": "3147890123",
+        "direccion": "Calle 90 #7-14",
+        "nacimiento": "20/01/1991"
+    },
+    {
+        "id_usuario": "14",
+        "nombre": "Valentina Morales",
+        "edad": "21",
+        "email": "valentina.morales@hotmail.com",
+        "telefono": "3102345678",
+        "direccion": "Avenida 25 #30-45",
+        "nacimiento": "09/05/2003"
+    },
+    {
+        "id_usuario": "15",
+        "nombre": "Óscar Eduardo Mendoza",
+        "edad": "38",
+        "email": "oscarmendoza@outlook.com",
+        "telefono": "3178901234",
+        "direccion": "Carrera 50 #60-70",
+        "nacimiento": "28/08/1986"
+    },
+    {
+        "id_usuario": "16",
+        "nombre": "Camila Andrea Silva",
+        "edad": "23",
+        "email": "camilasilva@gmail.com",
+        "telefono": "3113456789",
+        "direccion": "Calle 45 #12-34",
+        "nacimiento": "17/09/2001"
+    },
+    {
+        "id_usuario": "17",
+        "nombre": "Fernando José Rojas",
+        "edad": "32",
+        "email": "fernandorojas@yahoo.com",
+        "telefono": "3189012345",
+        "direccion": "Avenida 10 #5-25",
+        "nacimiento": "11/07/1992"
+    },
+    {
+        "id_usuario": "18",
+        "nombre": "Isabel Cristina Peña",
+        "edad": "27",
+        "email": "isabelpena@gmail.com",
+        "telefono": "3124567890",
+        "direccion": "Carrera 30 #8-15",
+        "nacimiento": "04/12/1997"
+    },
+    {
+        "id_usuario": "19",
+        "nombre": "Gustavo Adolfo Vargas",
+        "edad": "45",
+        "email": "gustavovargas@hotmail.com",
+        "telefono": "3157890123",
+        "direccion": "Calle 60 #9-18",
+        "nacimiento": "21/03/1979"
+    },
+    {
+        "id_usuario": "20",
+        "nombre": "Sara Lucía Jiménez",
+        "edad": "20",
+        "email": "sarajimenez@outlook.com",
+        "telefono": "3135678901",
+        "direccion": "Avenida 20 #10-30",
+        "nacimiento": "08/11/2004"
+    }
+]

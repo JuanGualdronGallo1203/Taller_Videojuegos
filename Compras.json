@@ -1,0 +1,266 @@
+[
+    {
+        "id_compra": "1",
+        "id_usuario": "1",
+        "juegos_comprados": [
+            {"id_videojuego": "3", "nombre": "Red Dead Redemption 2", "precio": 39.99, "cantidad": 1},
+            {"id_videojuego": "12", "nombre": "Halo Infinite", "precio": 49.99, "cantidad": 2}
+        ],
+        "tienda": "Xbox Store",
+        "precio_total": 139.97,
+        "reseña": "Compré dos copias de Halo para jugar con mi hermano."
+    },
+    {
+        "id_compra": "2",
+        "id_usuario": "5",
+        "juegos_comprados": [
+            {"id_videojuego": "7", "nombre": "Grand Theft Auto V", "precio": 29.99, "cantidad": 3}
+        ],
+        "tienda": "Steam",
+        "precio_total": 89.97,
+        "reseña": "Regalos para amigos."
+    },
+    {
+        "id_compra": "3",
+        "id_usuario": "12",
+        "juegos_comprados": [
+            {"id_videojuego": "4", "nombre": "Cyberpunk 2077", "precio": 29.99, "cantidad": 1},
+            {"id_videojuego": "20", "nombre": "Dead Space Remake", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 89.98,
+        "reseña": "Cyberpunk mejoró mucho con la actualización."
+    },
+    {
+        "id_compra": "4",
+        "id_usuario": "3",
+        "juegos_comprados": [
+            {"id_videojuego": "10", "nombre": "Super Mario Odyssey", "precio": 39.99, "cantidad": 2}
+        ],
+        "tienda": "Nintendo eShop",
+        "precio_total": 79.98,
+        "reseña": "Una copia para mí y otra para mi sobrino."
+    },
+    {
+        "id_compra": "5",
+        "id_usuario": "8",
+        "juegos_comprados": [
+            {"id_videojuego": "18", "nombre": "Starfield", "precio": 69.99, "cantidad": 1}
+        ],
+        "tienda": "Xbox Store",
+        "precio_total": 69.99,
+        "reseña": "Inmersivo, pero con algunos bugs."
+    },
+    {
+        "id_compra": "6",
+        "id_usuario": "19",
+        "juegos_comprados": [
+            {"id_videojuego": "2", "nombre": "The Legend of Zelda: Breath of the Wild", "precio": 49.99, "cantidad": 1},
+            {"id_videojuego": "27", "nombre": "Metroid Dread", "precio": 49.99, "cantidad": 1}
+        ],
+        "tienda": "Nintendo eShop",
+        "precio_total": 99.98,
+        "reseña": "Zelda es una obra maestra."
+    },
+    {
+        "id_compra": "7",
+        "id_usuario": "7",
+        "juegos_comprados": [
+            {"id_videojuego": "9", "nombre": "God of War: Ragnarök", "precio": 69.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 69.99,
+        "reseña": "Historia épica y combate fluido."
+    },
+    {
+        "id_compra": "8",
+        "id_usuario": "14",
+        "juegos_comprados": [
+            {"id_videojuego": "6", "nombre": "Fortnite", "precio": 0.00, "cantidad": 1},
+            {"id_videojuego": "14", "nombre": "Among Us", "precio": 4.99, "cantidad": 4}
+        ],
+        "tienda": "Epic Games Store",
+        "precio_total": 19.96,
+        "reseña": "Compré Among Us para mi grupo de amigos."
+    },
+    {
+        "id_compra": "9",
+        "id_usuario": "2",
+        "juegos_comprados": [
+            {"id_videojuego": "11", "nombre": "The Witcher 3: Wild Hunt", "precio": 29.99, "cantidad": 1},
+            {"id_videojuego": "22", "nombre": "Diablo IV", "precio": 69.99, "cantidad": 1}
+        ],
+        "tienda": "Steam",
+        "precio_total": 99.98,
+        "reseña": "The Witcher es un must-have."
+    },
+    {
+        "id_compra": "10",
+        "id_usuario": "16",
+        "juegos_comprados": [
+            {"id_videojuego": "8", "nombre": "FIFA 23", "precio": 59.99, "cantidad": 2}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 119.98,
+        "reseña": "Una copia para mí y otra para mi primo."
+    },
+    {
+        "id_compra": "11",
+        "id_usuario": "9",
+        "juegos_comprados": [
+            {"id_videojuego": "13", "nombre": "Elden Ring", "precio": 59.99, "cantidad": 1},
+            {"id_videojuego": "28", "nombre": "Sekiro: Shadows Die Twice", "precio": 39.99, "cantidad": 1}
+        ],
+        "tienda": "Steam",
+        "precio_total": 99.98,
+        "reseña": "Dificultad desafiante pero satisfactoria."
+    },
+    {
+        "id_compra": "12",
+        "id_usuario": "17",
+        "juegos_comprados": [
+            {"id_videojuego": "16", "nombre": "Overwatch 2", "precio": 0.00, "cantidad": 1},
+            {"id_videojuego": "24", "nombre": "Street Fighter 6", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "Xbox Store",
+        "precio_total": 59.99,
+        "reseña": "Street Fighter tiene un gran combate."
+    },
+    {
+        "id_compra": "13",
+        "id_usuario": "4",
+        "juegos_comprados": [
+            {"id_videojuego": "17", "nombre": "Resident Evil 4 Remake", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 59.99,
+        "reseña": "Terror y acción perfectamente equilibrados."
+    },
+    {
+        "id_compra": "14",
+        "id_usuario": "11",
+        "juegos_comprados": [
+            {"id_videojuego": "19", "nombre": "Stray", "precio": 24.99, "cantidad": 1},
+            {"id_videojuego": "25", "nombre": "The Last of Us Part I", "precio": 69.99, "cantidad": 1}
+        ],
+        "tienda": "Steam",
+        "precio_total": 94.98,
+        "reseña": "Stray es una joya indie."
+    },
+    {
+        "id_compra": "15",
+        "id_usuario": "20",
+        "juegos_comprados": [
+            {"id_videojuego": "21", "nombre": "Hogwarts Legacy", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 59.99,
+        "reseña": "Todo fan de Harry Potter debe jugarlo."
+    },
+    {
+        "id_compra": "16",
+        "id_usuario": "6",
+        "juegos_comprados": [
+            {"id_videojuego": "23", "nombre": "Final Fantasy XVI", "precio": 69.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 69.99,
+        "reseña": "Narrativa cinematográfica increíble."
+    },
+    {
+        "id_compra": "17",
+        "id_usuario": "10",
+        "juegos_comprados": [
+            {"id_videojuego": "26", "nombre": "Forza Horizon 5", "precio": 49.99, "cantidad": 1},
+            {"id_videojuego": "29", "nombre": "Persona 5 Royal", "precio": 49.99, "cantidad": 1}
+        ],
+        "tienda": "Xbox Store",
+        "precio_total": 99.98,
+        "reseña": "Forza es el mejor juego de carreras."
+    },
+    {
+        "id_compra": "18",
+        "id_usuario": "13",
+        "juegos_comprados": [
+            {"id_videojuego": "30", "nombre": "Horizon Forbidden West", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 59.99,
+        "reseña": "Mundo abierto espectacular."
+    },
+    {
+        "id_compra": "19",
+        "id_usuario": "15",
+        "juegos_comprados": [
+            {"id_videojuego": "1", "nombre": "Call of Duty: Modern Warfare", "precio": 59.99, "cantidad": 2},
+            {"id_videojuego": "4", "nombre": "Cyberpunk 2077", "precio": 29.99, "cantidad": 1},
+            {"id_videojuego": "14", "nombre": "Among Us", "precio": 4.99, "cantidad": 3}
+        ],
+        "tienda": "Steam",
+        "precio_total": 184.94,
+        "reseña": "Compré varios juegos para mi comunidad de stream."
+    },
+    {
+        "id_compra": "20",
+        "id_usuario": "18",
+        "juegos_comprados": [
+            {"id_videojuego": "5", "nombre": "Minecraft", "precio": 19.99, "cantidad": 4},
+            {"id_videojuego": "8", "nombre": "FIFA 23", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "Xbox Store",
+        "precio_total": 139.95,
+        "reseña": "Minecraft para mis hijos y sus amigos."
+    },
+    {
+        "id_compra": "21",
+        "id_usuario": "1",
+        "juegos_comprados": [
+            {"id_videojuego": "17", "nombre": "Resident Evil 4 Remake", "precio": 59.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 59.99,
+        "reseña": "Remake fiel pero innovador."
+    },
+    {
+        "id_compra": "22",
+        "id_usuario": "7",
+        "juegos_comprados": [
+            {"id_videojuego": "22", "nombre": "Diablo IV", "precio": 69.99, "cantidad": 1}
+        ],
+        "tienda": "Xbox Store",
+        "precio_total": 69.99,
+        "reseña": "Adictivo como sus predecesores."
+    },
+    {
+        "id_compra": "23",
+        "id_usuario": "3",
+        "juegos_comprados": [
+            {"id_videojuego": "9", "nombre": "God of War: Ragnarök", "precio": 69.99, "cantidad": 1},
+            {"id_videojuego": "19", "nombre": "Stray", "precio": 24.99, "cantidad": 1}
+        ],
+        "tienda": "PlayStation Store",
+        "precio_total": 94.98,
+        "reseña": "God of War es una obra maestra."
+    },
+    {
+        "id_compra": "24",
+        "id_usuario": "11",
+        "juegos_comprados": [
+            {"id_videojuego": "3", "nombre": "Red Dead Redemption 2", "precio": 39.99, "cantidad": 1},
+            {"id_videojuego": "11", "nombre": "The Witcher 3: Wild Hunt", "precio": 29.99, "cantidad": 1}
+        ],
+        "tienda": "Steam",
+        "precio_total": 69.98,
+        "reseña": "Los mejores RPGs del mercado."
+    },
+    {
+        "id_compra": "25",
+        "id_usuario": "20",
+        "juegos_comprados": [
+            {"id_videojuego": "13", "nombre": "Elden Ring", "precio": 59.99, "cantidad": 2}
+        ],
+        "tienda": "Nintendo eShop",
+        "precio_total": 119.98,
+        "reseña": "Una copia para mí y otra para mi pareja."
+    }
+]
